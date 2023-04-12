@@ -1,4 +1,4 @@
-# Hello World
+# **Hello World**
 
 The **Hello World** project is a simple animation to say hello.
 
@@ -14,6 +14,6 @@ To use the projet you have to follow this steps:
 - Go to the `template` folder
 - Open the `index.html` file
 
-## Glimpse
+## **Glimpse**
 
 https://aimerickferal.com/projects/hello-world
