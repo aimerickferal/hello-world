@@ -1,6 +1,4 @@
-# Hello World
-
-The **Hello World** project is a simple animation to say hello.
+# Documentation
 
 ## **Setup**
 
@@ -13,7 +11,3 @@ To use the projet you have to follow this steps:
 - Git clone the `dev` branch of the repository
 - Go to the `template` folder
 - Open the `index.html` file
-
-## Glimpse
-
-https://aimerickferal.com/projects/hello-world
